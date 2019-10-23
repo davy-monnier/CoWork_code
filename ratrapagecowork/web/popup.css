@@ -1,0 +1,22 @@
+/* Popup container */
+h4, h3, h2, h1{
+  font-family:cursive, serif;
+}
+.ml10{
+  margin-left : 10px;
+}
+.ml20{
+  margin-left : 20px;
+}
+.m10{
+  margin : 10px;
+}
+.m20{
+  margin : 20px;
+}
+td > .btn{
+  width : 100px;
+}
+.hide{
+ display:none; 
+}
